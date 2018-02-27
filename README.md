@@ -6,8 +6,7 @@ A Kotlin extension for converting an image to ASCII graphics.
 
 usage:
 ```kotlin
-URL("https://avatars1.githubusercontent.com/u/230455?s=280&v=4")
-            .toASCII(.3)
+URL("https://avatars1.githubusercontent.com/u/230455?s=280&v=4").toASCII(.3)
 ```
 output:
 
